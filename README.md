@@ -1,1 +1,1 @@
-# documents-rag
+# Document RAG
