@@ -5,3 +5,4 @@ torch
 fastapi
 uvicorn
 beautifulsoup4
+llama-cpp-python
