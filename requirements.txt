@@ -6,3 +6,5 @@ fastapi
 uvicorn
 beautifulsoup4
 llama-cpp-python
+tiktoken
+sentencepiece
